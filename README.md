@@ -40,6 +40,7 @@ Popular stress-relief activities among students facing high levels of anxiety or
 2.What percentage of students experience depression or anxiety, and how does it impact their sleep and sports engagement?
 3. How are academic pressure and poor social relationships linked to mental health challenges?
 4. Which fields of study have the highest and lowest average stress levels?
+
 5.What are the most common stress-relief activities among students with high anxiety or depression?
 6.How do demographic factors like gender and residential status influence feelings of future insecurity?
 and many more...
