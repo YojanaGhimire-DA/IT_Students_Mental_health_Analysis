@@ -1,6 +1,6 @@
 # IT_Students_Mental_health_Analysis_And_Dashboard
 This project is about mental_health analysis of IT students .
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/28b94354-465a-4964-b218-d8fbe8669ed5)
 
 
 # Dashboard Using Power BI:
