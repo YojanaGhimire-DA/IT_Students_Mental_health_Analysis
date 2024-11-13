@@ -36,9 +36,11 @@ Sleep and sports engagement patterns and their correlation with academic perform
 Insights into discrimination, harassment, and their impact on mental health
 Popular stress-relief activities among students facing high levels of anxiety or depression
 # Key Questions Addressed
-What is the distribution of students across different academic years, and how does CGPA vary by degree level?
-What percentage of students experience depression or anxiety, and how does it impact their sleep and sports engagement?
-How are academic pressure and poor social relationships linked to mental health challenges?
-Which fields of study have the highest and lowest average stress levels?
-What are the most common stress-relief activities among students with high anxiety or depression?
-How do demographic factors like gender and residential status influence feelings of future insecurity?
+1.What is the distribution of students across different academic years, and how does CGPA vary by degree level?
+2.What percentage of students experience depression or anxiety, and how does it impact their sleep and sports engagement?
+3. How are academic pressure and poor social relationships linked to mental health challenges?
+4. Which fields of study have the highest and lowest average stress levels?
+5.What are the most common stress-relief activities among students with high anxiety or depression?
+6.How do demographic factors like gender and residential status influence feelings of future insecurity?
+and many more...
+### check out the sql file for further key analysis 
